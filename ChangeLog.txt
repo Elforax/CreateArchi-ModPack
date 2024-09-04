@@ -1,0 +1,19 @@
+v1.2.0:
+	Removed:
+	- Simple Voice Chat
+	- Simple Voice Radio
+
+	Added:
+	- Chunk Loaders
+	- Balm (lib for Crafting Tweaks)
+	- Iron's Spell's Recipe Additions
+	- Recipe Generator
+	- Mekanism Generators 
+	- Create Compact Exp
+	- Blocks You Need - Industrial, Steampunk, Laboratory, Space & More!
+
+	Updated:
+	Xaero's Minimap 		24.3.0 		-> 24.4.0
+	Forge 				47.3.0 		-> 47.3.7
+	Mekanism 			10.4.8.43 	-> 10.4.9.61 
+	Mekanism Tools 			10.4.8.43 	-> 10.4.9.61 
