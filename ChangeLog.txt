@@ -17,3 +17,17 @@ v1.2.0:
 	Forge 				47.3.0 		-> 47.3.7
 	Mekanism 			10.4.8.43 	-> 10.4.9.61 
 	Mekanism Tools 			10.4.8.43 	-> 10.4.9.61 
+
+V1.2.1:
+	Removed:
+	- All Mods related to Croptopia
+	
+	Added:
+	- Create: Big Cannons
+	- CreateStuffAdditions Fix
+	- Create: Biomimicry
+	- Create: Compression
+	- Create: The Recipe Expansion
+
+	Downgreded:
+	- Forge 			47.3.7 		-> 47.3.6
