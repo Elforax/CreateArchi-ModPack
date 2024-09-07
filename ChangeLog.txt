@@ -28,6 +28,7 @@ V1.2.1:
 	- Create: Biomimicry
 	- Create: Compression
 	- Create: The Recipe Expansion
+	- Time in a bottle [Forge\Neoforge\Fabric]
 
 	Downgreded:
 	- Forge 			47.3.7 		-> 47.3.6
